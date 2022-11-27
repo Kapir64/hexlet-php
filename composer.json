@@ -1,0 +1,15 @@
+{
+    "name": "kapir/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Kapir\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Eryomin",
+            "email": "Aleksey.er@gmail.com"
+        }
+    ],
+    "require": {}
+}
