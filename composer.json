@@ -1,6 +1,9 @@
 {
     "name": "kapir/hexlet-php",
     "autoload": {
+	"files": [
+            "Runner.php"
+        ],
         "psr-4": {
             "Kapir\\HexletPhp\\": "src/"
         }
